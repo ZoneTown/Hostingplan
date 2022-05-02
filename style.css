@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    background-color:black;
+    color:white;
+    font-family: 'Heebo', sans-serif;
+}
+
+#header{
+    text-align:center;
+}
+
+
+.plan{
+    position:fixed;
+    top:160px;
+    font-size:x-large;
+    line-height: 41px;
+}
+
+.plan1{
+    position:fixed;
+    top:125px;
+    left:355px;
+    font-size:x-large;
+    line-height: 40px;
+}
+
+.plan2{
+    position:fixed;
+    top:125px;
+    left:655px;
+    font-size:x-large;
+    line-height: 40px;
+}
+
+.plan3{
+    position:fixed;
+    top:125px;
+    left:1050px;
+    font-size:x-large;
+    line-height: 40px;
+}
+
+a{
+    background-color:black;
+    color:white;
+    cursor:pointer;
+    border:solid black;
+    border-top:white;
+    border-left:grey;
+    border-bottom:rgb(126, 126, 126);
+    border-right:rgb(126, 126, 126);
+    border-style:outset;
+    text-decoration:none;
+}
+
+#hostform1{
+    position:absolute;
+    left:355px;
+    top:375px;
+}
+
+#hostform2{
+    position:absolute;
+    left:655px;
+    top:375px;
+}
+
+#hostform3{
+    position:absolute;
+    left:1050px;
+    top:375px;
+}

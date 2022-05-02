@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    background-color:black;
+    color:white;
+    font-family: 'Heebo', sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+fieldset{
+    display:inline;
+}
+
+#container{
+    position:fixed;
+    top:100px;
+    left:645px;
+}
+
+#button{
+    position:absolute;
+    left:30px;
+}
